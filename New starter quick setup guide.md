@@ -8,6 +8,6 @@ We recommend that you download the desktop and mobile versions for Slack and Tre
 4. GitHub - for development repository and core and evolving documents, such as this handbook. Request access from Matt or James.
 5. HubSpot - used as our CRM, and integrates with Gmail - so you'll need to make sure you use the Gmail client for mail, and not MacMail, Outlook or some other email client. Request access from Matt. https://app.hubspot.com/
 
-We'll be adding guides on each tool and how we use them soon.
+We'll be adding guides on each tool and how we use them.
 
 
