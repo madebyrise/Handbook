@@ -8,7 +8,7 @@
 e.g. 
 
 Jacob Wilson
-Business Support Manager @ Rise
+Business Support Manager @Rise
 Manchester, United Kingdom
 
 
