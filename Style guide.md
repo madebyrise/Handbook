@@ -34,16 +34,7 @@ Email signature:
 
 The Rise email signature is intentionally consistent across all employees. We don't use any styling above the standard Arial 11 point font. The reason for not having images, coloured links, coloured text and other styling attributes is due to the lack of control there is in the what the end user ultimately receives. Enterprise email systems can remove imnages and replace with ugly '.png' markers, some devices don't render colour as we would like them to appear or maybe expect them to appear on other screens, this is certainly the case when you move away from Apple Retina displays. 
 
-Template:
-
-James Jameson
-Chief Executive Officer, Rise
-+44 (0) 7969 165 990
-www.rise.today
-
-Rise Today Limited, trading as "Rise" is registered in England & Wales.
-Registered company number 06484008.
-Registered office 34B York Way, King's Cross, London N1 9AB.
+Template: https://docs.google.com/document/d/15nmdsDrhGEf65gsan6TqclwIW7Eq_gkNJ9-0fkldgEk/edit
 
 
 
