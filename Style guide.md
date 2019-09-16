@@ -10,7 +10,7 @@ Writing "Rise":
 
 Rise should only ever be displayed in capital letters in the Rise wordmark, using the specific design guide for the Rise wordmark which is displayed in Babas Neue.
 
-Otherwise, Rise should always be typed in standard totle format, with the first letter capitalised.
+Otherwise, Rise should always be typed in standard title format, with the first letter capitalised.
 
 Tools: 
 ---
