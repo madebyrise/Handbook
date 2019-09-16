@@ -36,5 +36,14 @@ The Rise email signature is intentionally consistent across all employees. We do
 
 Template: https://docs.google.com/document/d/15nmdsDrhGEf65gsan6TqclwIW7Eq_gkNJ9-0fkldgEk/edit
 
+Legal and commercial documents:
+---
+
+Template:  https://docs.google.com/document/d/18mhgjadW0_TZGW7-9ShcGaAfx-gjFcUyfwbFyQJBQxQ/edit
+
+Internal and external documents:
+---
+
+Template:  https://docs.google.com/document/d/1zrDlCK469Zu_qkZXrBxMsd7ueIemLUwLpRo8Co2kHHs/edit#
 
 
