@@ -1,3 +1,5 @@
+#Core tools and systems
+
 Firstly you'll need to get setup on the tools we use. As a rmeote company we rely on these to work, and work effectively. 
 
 We recommend that you download the desktop and mobile versions for Slack and Trello, as well as favouriting the URLs (below):
@@ -9,5 +11,12 @@ We recommend that you download the desktop and mobile versions for Slack and Tre
 5. HubSpot - used as our CRM, and integrates with Gmail - so you'll need to make sure you use the Gmail client for mail, and not MacMail, Outlook or some other email client. Request access from Matt. https://app.hubspot.com/
 
 We'll be adding guides on each tool and how we use them.
+
+#Employment contract
+
+Your new employee should have signed a copy of the Rise Employment Contract:
+https://docs.google.com/document/d/1a2EuCts34o1A7m8rwL4znoPFWQ2nWsQk/edit#
+
+A signed and PDF copied version should be stored on Drive/Management/
 
 
