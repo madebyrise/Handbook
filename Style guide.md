@@ -1,5 +1,4 @@
 # Rise Marketing Communications Style Guide
----
 
 The Rise  Marketing Communications Style Guide sets standards for clarity and consistency
 in all Rise sales and marketing communications. 
