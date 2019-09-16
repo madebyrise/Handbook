@@ -3,7 +3,7 @@
 The Rise  Marketing Communications Style Guide sets standards for clarity and consistency
 in all Rise sales and marketing communications. 
 
-# Guidelines for Writers, Editors, and Reviewers” gives advice on format, writing editing:
+*1. Guidelines for Writers, Editors, and Reviewers” gives advice on format, writing editing*
 
 Tools: 
 ---
