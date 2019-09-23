@@ -32,7 +32,13 @@ Email font: We use Arial point 11 for all email text.
 Email signature:
 ---
 
-The Rise email signature is intentionally consistent across all employees. We don't use any styling above the standard Arial 11 point font. The reason for not having images, coloured links, coloured text and other styling attributes is due to the lack of control there is in the what the end user ultimately receives. Enterprise email systems can remove imnages and replace with ugly '.png' markers, some devices don't render colour as we would like them to appear or maybe expect them to appear on other screens, this is certainly the case when you move away from Apple Retina displays. 
+The Rise email signature is intentionally consistent across all employees. We don't use any styling above the standard Arial 11 point font or Serif where Arial is not available (Gmail for instance).
+
+The reason for not having images, coloured links, coloured text and other styling attributes, is because of the lack of control in the what your recipient actually gets compared to what you think you are sending them. What looks great on your device could look ugly, distorted or worse, illegible on their device.
+
+Enterprise email systems can remove imnages and replace with ugly '.png' markers, some devices don't render colour as we would like them to appear or maybe expect them to appear on other screens, this is certainly the case when you move away from Apple Retina displays. 
+
+Therefore, take a simple copy and paste of the following signature, replace for your details, and add it to all your signature preferences on every device (mobiles, tablets, laptops, desktops).
 
 Template: https://docs.google.com/document/d/15nmdsDrhGEf65gsan6TqclwIW7Eq_gkNJ9-0fkldgEk/edit
 
