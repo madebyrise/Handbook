@@ -52,4 +52,11 @@ Internal and external documents:
 
 Template:  https://docs.google.com/document/d/1zrDlCK469Zu_qkZXrBxMsd7ueIemLUwLpRo8Co2kHHs/edit#
 
+**Colours**
+---
 
+Background dark grey HEX #313633
+Background grey HEX #495C51
+Rise Green HEX #60ff9f
+Rise Green Hover HEX #5DF59A
+Rise Off White HEX #F2F7F4
