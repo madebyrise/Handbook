@@ -6,12 +6,16 @@ Inspired by Basecamp's Shape Up book: [https://basecamp.com/shapeup](https://bas
 
 - Cycles run 5 weeks: 4 weeks development / 1 week cool-down
 - Cycle should start with the team breaking down the pitch(s) and self assigning tasks
+  - Developers should initally add `imagined` tasks
+  - As work starts they add `discovered` tasks
+  - Non-developers must not add development tasks in cycle
+  
 - Prioritising tasks in such a way to reduce blockage 😱
 - QA should happen in week 4 of the cycle
 - Deployment should happen before cool-down
 - Each cycle should be debriefed during cool-down
 - The next cycle's pitch(s) should be bet on during cool-down
-- Other time in cool-down is used at team memebers discretion for other tasks. e.g Dependency updates and bug regressions.
+- Other time in cool-down is used at team members discretion for other tasks. e.g Dependency updates and bug regressions.
 
 ## Debrief
 
