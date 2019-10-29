@@ -4,7 +4,7 @@ path: /new-starter-quick-setup-guide
 ---
 
 
-#Core tools and systems
+## Core tools and systems
 ---
 
 Firstly you'll need to get setup on the tools we use. As a largely remote company we rely on consistent and effective use of these.

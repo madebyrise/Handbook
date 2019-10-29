@@ -3,8 +3,6 @@ title: Product development process
 path: /product-development-process
 ---
 
-# Product Development Process
-
 Inspired by Basecamp's Shape Up book: [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
 
 ## Cycles
