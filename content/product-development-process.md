@@ -1,4 +1,7 @@
-# Product Development Process
+---
+title: Product development process
+path: /product-development-process
+---
 
 Inspired by Basecamp's Shape Up book: [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
 
@@ -9,7 +12,7 @@ Inspired by Basecamp's Shape Up book: [https://basecamp.com/shapeup](https://bas
   - Developers should initally add `imagined` tasks
   - As work starts they add `discovered` tasks
   - Non-developers must not add development tasks in cycle
-  
+
 - Prioritising tasks in such a way to reduce blockage 😱
 - QA should happen in week 4 of the cycle
 - Deployment should happen before cool-down

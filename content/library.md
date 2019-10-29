@@ -1,4 +1,6 @@
-**Virtual Book Library**
+---
+title: Virtual Book Library
+path: /book-library
 ---
 
 Welcome to our library. Discover what motivates us, what educates us, and what inspires us to work and live better and happier.

@@ -1,4 +1,10 @@
-#Core tools and systems
+---
+title: New Starter Quick Setup Guide
+path: /new-starter-quick-setup-guide
+---
+
+
+## Core tools and systems
 ---
 
 Firstly you'll need to get setup on the tools we use. As a largely remote company we rely on consistent and effective use of these.
@@ -11,7 +17,7 @@ For all internal communications except email, and for shared channels for extern
 
 **2. Gmail**
 ---
-For all internal and external company email. Request an account from James. https://gmail.com 
+For all internal and external company email. Request an account from James. https://gmail.com
 Due to the HubSpot integration for external communication tracking, standalone email handlers like Mac Mail or Outlook shouldn't be used.
 N.B. HubSPot integration is used for storage of details of communications for data protection and retention purposes, as well as CRM purposes).
 
