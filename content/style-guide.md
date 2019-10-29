@@ -59,8 +59,9 @@ Template:  https://docs.google.com/document/d/1zrDlCK469Zu_qkZXrBxMsd7ueIemLUwLp
 **Colours**
 ---
 
-Background dark grey HEX #313633
-Background grey HEX #495C51
-Rise Green HEX #60ff9f
-Rise Green Hover HEX #5DF59A
-Rise Off White HEX #F2F7F4
+* Background dark grey HEX #313633
+* Background grey HEX #495C51
+* Background green #495C51
+* Rise Green HEX #60ff9f
+* Rise Green Hover HEX #5DF59A
+* Rise Off White HEX #F2F7F4
