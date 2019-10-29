@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Rise Compmay Handbook</h1>
+    <h1>Rise Company Handbook</h1>
     <p>Sets out working policies, principles and processes for Rise for employees and contractors.</p>
   </Layout>
 )
