@@ -1,26 +1,31 @@
+---
+title: Style Guide
+path: /style-guide
+---
+
 # Rise Marketing Communications Style Guide
 
 The Rise  Marketing Communications Style Guide sets standards for clarity and consistency
-in all Rise sales and marketing communications. 
+in all Rise sales and marketing communications.
 
 *1. Guidelines for Writers, Editors, and Reviewers” gives advice on format, writing editing*
 
-Writing "Rise": 
+Writing "Rise":
 ---
 
 Rise should only ever be displayed in capital letters in the Rise wordmark, using the specific design guide for the Rise wordmark which is displayed in Babas Neue.
 
 Otherwise, Rise should always be typed in standard title format, with the first letter capitalised.
 
-Tools: 
+Tools:
 ---
 
-1. Email: Gmail and Grammarly 
+1. Email: Gmail and Grammarly
 
 2. Word documents and presentations: Google Docs and Google Slides
 
 
-Fonts: 
+Fonts:
 ---
 
 Fonts: We use the Roboto family, including website: we use Arial size 11 to ensure consistency in handling by all recipient email handlers.
@@ -36,7 +41,7 @@ The Rise email signature is intentionally consistent across all employees. We do
 
 The reason for not having images, coloured links, coloured text and other styling attributes, is because of the lack of control in the what your recipient actually gets compared to what you think you are sending them. What looks great on your device could look ugly, distorted or worse, illegible on their device.
 
-Enterprise email systems can remove imnages and replace with ugly '.png' markers, some devices don't render colour as we would like them to appear or maybe expect them to appear on other screens, this is certainly the case when you move away from Apple Retina displays. 
+Enterprise email systems can remove imnages and replace with ugly '.png' markers, some devices don't render colour as we would like them to appear or maybe expect them to appear on other screens, this is certainly the case when you move away from Apple Retina displays.
 
 Therefore, take a simple copy and paste of the following signature, replace for your details, and add it to all your signature preferences on every device (mobiles, tablets, laptops, desktops).
 

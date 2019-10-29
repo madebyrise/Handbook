@@ -1,3 +1,8 @@
+---
+title: Virtual Book Library
+path: /book-library
+---
+
 **Virtual Book Library**
 ---
 
