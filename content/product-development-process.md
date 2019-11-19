@@ -1,5 +1,5 @@
 ---
-title: Product development process
+title: Product Development Process
 path: /product-development-process
 ---
 
