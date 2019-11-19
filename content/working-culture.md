@@ -24,7 +24,7 @@ Manchester, United Kingdom
 ## Taking time out during the day to run errands, do exercise, take a nap or whatever.
 A tricky element of remote and flexible working is when someone wants to take a long period out during the day. A longer lunch. A bike ride. Both.
 
-Perhaps you started early. Maybe you've figured out how to balance your schedule in your own mind. How you communicate to others is important. That communication adds to setting the ongoing tone and trust of the company when it's online, which ismost of the time. This online world _is_ culture.
+Perhaps you started early. Maybe you've figured out how to balance your schedule in your own mind. How you communicate to others is important. That communication adds to setting the ongoing tone and trust of the company when it's online, which is most of the time. Online _is_ our working environment and culture.
 
 On the one hand, it's important you know they can take that time out. It is also important that managers have a happy team without grudges. We all need confidence that the work will get done. That's a lot of stuff going on! And that needs figuring out and documenting. Getting it even _almost_ right is hard.
 
@@ -32,7 +32,7 @@ Flexible working has to be designed. Like anything else in life and software. So
 
 # Communicating on Slack about taking time out of the normal working day
 1. If you communicate on a team or public channel, be clear about why you are going - what justifies it. We're a wellbeing company and we practice what we preach. A bike ride or yoga class is something we want to encourage taking time out for but be clear about when you're getting back so we know when to expect you, and when we shouldn't be badgering you.
-"I'm doing my thursday bike ride at 2, I'll be back online at 2:30pm"
+"I'm doing my thursday karate matt session at 2, I'll be back online at 2:30pm"
 2. If it's not justifiable, and is more of a weekend or evening job, you'll know as you won't want to be transparent about it. Helping a mate design his latest band-room is largely not workable unless you take the time off in advance. Dropping it in on the day could lead to people thinking that it's ok to drop out of the office regularly and could quiclly descend into software culture anarchy 👺
 3. If it's sensitive, communicate it on private channels.
 4. Plan and communicate in advance with the people who need to know.
