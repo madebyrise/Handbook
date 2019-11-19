@@ -28,11 +28,15 @@ Perhaps you started early. Maybe you've figured out how to balance your schedule
 
 On the one hand, it's important you know they can take that time out. It is also important that managers have a happy team without grudges. We all need confidence that the work will get done. That's a lot of stuff going on! And that needs figuring out and documenting. Getting it even _almost_ right is hard.
 
-Flexible working has to be designed. Like anything else in life and software. So we start with the basics, how and where we communicate the most, and in our case, that's Slack.
+Flexible working has to be designed. Like anything else in life and software. So we start with the basics, how and where we communicate the most, and in our case, Slack.
 
 # Communicating on Slack about taking time out of the normal working day
-1. If you communicate on a team or public channel, be clear about why you are going - what justifies it. We're a wellbeing company and we practice what we preach. A bike ride or yoga class is something we want to encourage taking time out for but be clear about when you're getting back so we know when to expect you, and when we shouldn't be badgering you.
+1. If you communicate on a team or public channel, be clear about why you are going - what justifies it. 
+
+We're a wellbeing company and we practice what we preach. A bike ride or yoga class is something we want to encourage taking time out for but be clear about when you're getting back so we know when to expect you, and when we shouldn't be badgering you.
+
 "I'm doing my thursday karate matt session at 2, I'll be back online at 2:30pm"
+
 2. If it's not justifiable, and is more of a weekend or evening job, you'll know as you won't want to be transparent about it. Helping a mate design his latest band-room is largely not workable unless you take the time off in advance. Dropping it in on the day could lead to people thinking that it's ok to drop out of the office regularly and could quiclly descend into software culture anarchy 👺
 3. If it's sensitive, communicate it on private channels.
 4. Plan and communicate in advance with the people who need to know.
@@ -40,5 +44,8 @@ Flexible working has to be designed. Like anything else in life and software. So
 6. Be open to feedback and open conversations.
 
 # The principle of '"_same-time_" enables collaboration'
-The principle of "same-time" i.e.the hours where the team are working on something at the same time, is important. If you lose 2 hours 'same-time' every day, that's not good. An example of this might be one person working from 9-11 pm every day to make up a couple of hours lost between 9-11 am ... the more of this there is across employees, the harder it gets to manage.
+The principle of "same-time" i.e.the hours where the team are working on something at the same time, is important. If you lose 2 hours 'same-time' every day, that's not good. 
+
+An example of this might be one person working from 9-11 pm every day to make up a couple of hours lost between 9-11 am ... the more of this there is across employees, the harder it gets to manage.
+
 Simply put, we try to get most of our time in work as 'same-time'.
