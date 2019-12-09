@@ -1,3 +1,8 @@
+---
+title: Glossary
+path: /glossary
+---
+
 **Welcome to the internal Rise Glossary**
 ___
 
