@@ -1,9 +1,10 @@
 ---
-title: Product Development Process
+title: Product Development Policy
 path: /product-development-process
 ---
 
 Inspired by Basecamp's Shape Up book: [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
+Software development process https://github.com/madebyrise/process
 
 ## Cycles
 
