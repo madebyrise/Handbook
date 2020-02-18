@@ -5,7 +5,9 @@ path: /mbo-partner-onboarding
 
 We rely on selected partners to provide us with Sessions via Mindbody.
 
-To integrate with a Mindbody partner we must folow the following steps for their sessions to be integrated into the Rise platform.
+To integrate with a new Mindbody partner we must folow the following steps for their sessions to be integrated into the Rise platform.
+
+**Note**: If the partner has already been activated or integrated before then you can skip steps 3 & 4.
 
 1. Get the partners Mindbody Site ID.
 1. Create a new partner in the Core Django admin and set the 'Mindbody id' value to the Site ID.
