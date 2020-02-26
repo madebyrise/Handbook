@@ -43,7 +43,7 @@ We're a wellbeing company and we practice what we preach. A bike ride or yoga cl
 5. Keep an eye on your own comms. Think about how others perceive you and how others are behaving on public channels.
 6. Be open to feedback and open conversations.
 
-# The principle of '"_same-time_" enables collaboration'
+# The principle of _'being here at the same-time, enables collaboration'_
 The principle of "same-time" i.e.the hours where the team are working on something at the same time, is important. If you lose 2 hours 'same-time' every day, that's not good. 
 
 An example of this might be one person working from 9-11 pm every day to make up a couple of hours lost between 9-11 am ... the more of this there is across employees, the harder it gets to manage.
